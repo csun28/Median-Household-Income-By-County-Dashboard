@@ -127,7 +127,7 @@ server <- function(input, output) {
             tm_borders(col="black",
                        lwd=0.3) 
         
-        #convert map to leaflet to view as http
+        #convert map to leaflet to view as html
         tmap_mode("view")
         tmap_leaflet(tm,
                      mode = "view",

@@ -103,7 +103,7 @@ server <- function(input, output) {
                           id= "CountyName",
                           popup.vars=c("County Code"="county", "Income"="B19013_001E"))
         tmap_mode("view")
-        #convert map to leadlet to view as http
+        #convert map to leadlet to view as html
         tmap_leaflet(tm,
                      mode = "view",
                      show = FALSE,

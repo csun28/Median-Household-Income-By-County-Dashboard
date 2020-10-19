@@ -1,0 +1,12 @@
+name: HouseholdIncomeMap
+title: HouseholdIncomeMap
+username:
+account: cassdashboards
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3046569
+bundleId: 3757581
+url: https://cassdashboards.shinyapps.io/HouseholdIncomeMap/
+when: 1603097912.38276
+asMultiple: FALSE
+asStatic: FALSE

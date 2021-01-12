@@ -17,9 +17,9 @@ StateList = c("Alabama (AL)",  "Alaska (AK)", "Arizona (AZ)", "Arkansas (AR)",  
               "Maine (ME)", "Massachusetts (MA)", "Maryland (MD)", "Michigan (MI)", "Minnesota (MN)", "Mississippi (MS)", 
               "Missouri (MO)",  "Montana (MT)", "Nebraska (NE)", "Nevada (NV)", "New Hampshire (NH)", "New Jersey (NJ)", 
               "New Mexico (NM)", "New York (NY)", "North Carolina (NC)", "North Dakota (ND)", "Oklahoma (OK)", "Ohio (OH)", 
-              "Oregon (OR)", "Pennsylvania (PA)", "Puerto Rico (PR)", "Rhode Island (RI)", "South Carolina (SC)",  "South Dakota (SD)", "Tennessee (TN)", 
-              "Texas (TX)", "Utah (UT)", "Vermont (VT)",  "Virginia (VA)",  "Washington (WA)", "West Virginia (WV)",  
-              "Wisconsin (WI)", "Wyoming (WY)")
+              "Oregon (OR)", "Pennsylvania (PA)", "Puerto Rico (PR)", "Rhode Island (RI)", "South Carolina (SC)",  
+              "South Dakota (SD)", "Tennessee (TN)", "Texas (TX)", "Utah (UT)", "Vermont (VT)",  "Virginia (VA)",  "Washington (WA)", 
+              "West Virginia (WV)", "Wisconsin (WI)", "Wyoming (WY)")
     
     
 # define UI for application that draws a histogram

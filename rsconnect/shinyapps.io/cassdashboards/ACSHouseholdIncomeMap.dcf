@@ -1,0 +1,12 @@
+name: ACSHouseholdIncomeMap
+title: ACSHouseholdIncomeMap
+username: cassdashboards
+account: cassdashboards
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11179929
+bundleId: 8237056
+url: https://cassdashboards.shinyapps.io/ACSHouseholdIncomeMap/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

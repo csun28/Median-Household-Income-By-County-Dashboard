@@ -106,7 +106,7 @@ server <- function(input, output) {
         fulldata$CountyName <- gsub("(.*),.*", "\\1", fulldata$NAME)
         fulldata$StateName <- gsub(".*, ", "" , fulldata$NAME)
         
-        #use all data in fulldata set to create map of United States 
+        #use all data in full data set to create map of United States 
         mapdata <- if (input$state=="United States (US)") {
             fulldata}
         #subset data by selected state to create map of selected state
